@@ -9,7 +9,7 @@ using namespace std::chrono_literals;
 int main()
 {
     auto aws_client = std::make_shared<aws_iot::ClientIot>();
-    std::ifstream config_file("/var/config/aws_config.json");
+    std::ifstream config_file("/var/config/main_config.json");
 
     iotb::App app(aws_client,
                   nlohmann::json::parse(config_file));
