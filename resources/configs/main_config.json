@@ -12,6 +12,6 @@
         "certificate": "/var/security/certificate.pem.crt",
         "private": "/var/security/private.pem.key",
         "root": "/var/security/AmazonRootCA1.pem",
-        "clientId": "raspberry_demo"
+        "clientId": "Edge-to-Cloud-Manual-Testing"
     }
 }
