@@ -1,0 +1,9 @@
+[15:23:38.095] [debug] [iotb] initializing app
+[15:23:38.095] [debug] [iotb] initializing ipc server
+[15:23:38.095] [debug] [iotb] initializing ipc server: DONE
+[15:23:38.095] [debug] [iotb] initializing iot bridge
+[15:23:38.095] [debug] [iotb] initializing iot bridge: DONE
+[15:23:38.095] [debug] [iotb] initializing app: DONE
+[15:23:38.095] [debug] [iotb] starting app
+[15:23:38.476] [debug] [iotb][aws_iot] connected, client id: Edge-to-Cloud-Manual-Testing
+[15:23:38.476] [debug] [iotb][aws_iot] connected

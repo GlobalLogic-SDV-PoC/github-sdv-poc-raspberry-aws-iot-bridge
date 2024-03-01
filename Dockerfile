@@ -12,7 +12,7 @@ RUN apk add --no-cache libstdc++ openssl
 
 ADD ./resources/security /var/security
 
-ADD ./resources/configs /var/configs
+ADD ./resources/configs /var/config
 
 COPY --from=base /var/work/build-folder/aws_iot_bridge_app /usr/local/bin/
 
